@@ -12,3 +12,21 @@ Kimia Farma sebagai salah satu pemain utama industri farmasi Indonesia membutuhk
 2. Jawa Barat mendominasi performa wilayah, memimpin dalam jumlah transaksi dan net sales. Sementara itu, wilayah timur Indonesia seperti Papua Barat, NTT, dan Gorontalo mencatat rating cabang tertinggi, menunjukkan kualitas layanan yang baik.
 3. Produk terlaris didominasi oleh kategori obat psikotropika dan pernapasan, mencerminkan respons terhadap kebutuhan kesehatan mental dan saluran napas. Kategori “Others” masih mencakup 38%, menandakan potensi portofolio yang luas.
 4. Peta sebaran profit menunjukkan bahwa profit tertinggi masih terkonsentrasi di wilayah Jawa, sementara daerah lain berkontribusi lebih kecil namun tersebar luas.
+
+#Rekomendasi
+1. Tingkatkan Kualitas Pengalaman Transaksi
+Lakukan audit terhadap proses transaksi di cabang dengan rating rendah.
+Optimalkan kecepatan layanan, sistem antrean, serta respons terhadap keluhan pelanggan.
+2. Dorong Pertumbuhan Pendapatan Tahunan
+Kembangkan strategi promosi musiman atau loyalitas pelanggan.
+Evaluasi kembali pricing dan bundling produk untuk mendorong peningkatan revenue tahunan.
+3. Perluas Potensi Pasar di Luar Jawa
+Investasi pada logistik dan distribusi di wilayah timur dengan kualitas cabang yang sudah baik.
+Berikan insentif cabang untuk ekspansi layanan di provinsi berpotensi.
+4. Fokus Produk Unggulan dan Optimalisasi “Others”
+Pertajam fokus pada kategori psikotropika & pernapasan yang sudah terbukti kuat.
+Teliti kategori “Others” untuk mengidentifikasi produk dengan potensi menjadi andalan baru.
+5. Perkuat Digitalisasi dan Layanan Online
+Kembangkan aplikasi layanan, pemesanan obat, dan e-commerce farmasi.
+Integrasikan platform digital dengan sistem loyalitas dan feedback pelanggan untuk peningkatan rating transaksi.
+

@@ -1,6 +1,3 @@
-Tentu! Berikut penulisan README kamu yang sudah saya **perbaiki dan rapikan** agar lebih konsisten, profesional, dan nyaman dibaca:
-
----
 
 # 📊 Kimia Farma Business Performance
 
@@ -54,6 +51,3 @@ Data bersumber dari tabel analitik yang telah diproses di **Google BigQuery**, m
    * Kembangkan aplikasi layanan, pemesanan obat, dan e-commerce farmasi.
    * Integrasikan platform digital dengan sistem loyalitas dan feedback pelanggan untuk meningkatkan rating transaksi.
 
----
-
-Mau saya bantu langsung buatkan file `README.md` siap pakai dari hasil ini?
